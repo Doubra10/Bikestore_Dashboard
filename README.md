@@ -24,7 +24,7 @@ Categories:
 - The New York store consistently brings in the most revenue, while the Texas store generates the least.
 - Mountain bikes and Trek brand products are the most purchased items.
 - Marcelene Boyer is the sales representative with the highest sales performance.
-## Reconmendation
+## Recommendation
 Based on insights
 - Implement more targeted advertisement campaigns in the Texas store to boost sales.
 - Conduct a thorough review of business strategies to address the decline in sales since May 2018.
