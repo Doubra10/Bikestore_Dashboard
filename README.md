@@ -1,11 +1,13 @@
 # Bikestore_Dashboard
-![](Bikesales_Dashboard.jpg)
+![Bikesales Dashboard](Bikesales_dashboard.png)
 
 This is a practice dashboard created with both excel and tableau
+ ![Excel Dashboard](excldas_1.png) 
+ ![Excel Dashboard](excldas_2.png)
 ## Introduction
 This repository contains two different dashboards, one created using Excel and the other using Tableau, for analyzing sales data obtained from a YouTube tutorial. 
 The project provides insights into sales trends, top-performing stores, products, and sales representatives.
-You can access the interactive dashboard here
+You can access the interactive dashboard [here](https://public.tableau.com/views/BikestoresDashboard_16961913194630/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ## Analysis
 In excel pivot tables and charts were generated leading to the interactive dashboard. Similar viz were created with tableau.
 
