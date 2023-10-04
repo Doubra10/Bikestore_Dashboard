@@ -1,5 +1,5 @@
 # Bikestore_Dashboard
-![Bikesales Dashboard](Bikesales_dashboard.png)
+![Bikesales_dashboard](https://github.com/Doubra10/Bikestore_Dashboard/assets/146187198/7b62506e-6842-4402-bb33-8878a976a2ac)
 
 This is a practice dashboard created with both excel and tableau
  ![Excel Dashboard](excldas_1.png) 
