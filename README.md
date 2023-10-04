@@ -1,5 +1,5 @@
 # Bikestore_Dashboard
-![bikesales-dashboard](https://github.com/Doubra10/Bikestore_Dashboard/assets/146187198/238a05b8-cfc9-42f2-8fd9-96579635b6b4)
+![tabdas](https://github.com/Doubra10/Bikestore_Dashboard/assets/146187198/bcaf97a6-4fff-4a85-a760-f941434029ec)
 
 This is a practice dashboard created with both excel and tableau
 
