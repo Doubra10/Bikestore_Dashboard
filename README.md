@@ -9,6 +9,7 @@ The project provides insights into sales trends, top-performing stores, products
 You can access the interactive dashboard [here](https://public.tableau.com/views/BikestoresDashboard_16961913194630/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 ## Analysis
 In excel pivot tables and charts were generated leading to the interactive dashboard. Similar viz were created with tableau.
+![excel dashboard](https://github.com/Doubra10/Bikestore_Dashboard/assets/146187198/5dc13602-6425-48c9-b54c-1556cd4aa605)
 
 Categories:
 - Revenue per Year: A breakdown of sales revenue by year, highlighting trends.
