@@ -10,6 +10,7 @@ You can access the interactive dashboard [here](https://public.tableau.com/views
 ## Analysis
 In excel pivot tables and charts were generated leading to the interactive dashboard. Similar viz were created with tableau.
 ![excel dashboard](https://github.com/Doubra10/Bikestore_Dashboard/assets/146187198/5dc13602-6425-48c9-b54c-1556cd4aa605)
+![excel dashboard](https://github.com/Doubra10/Bikestore_Dashboard/assets/146187198/c038c3f6-924e-4c47-b3bc-45d136293c81)
 
 Categories:
 - Revenue per Year: A breakdown of sales revenue by year, highlighting trends.
