@@ -1,9 +1,8 @@
 # Bikestore_Dashboard
-![Bikesales_dashboard](https://github.com/Doubra10/Bikestore_Dashboard/assets/146187198/7b62506e-6842-4402-bb33-8878a976a2ac)
+
 
 This is a practice dashboard created with both excel and tableau
- ![Excel Dashboard](excldas_1.png) 
- ![Excel Dashboard](excldas_2.png)
+
 ## Introduction
 This repository contains two different dashboards, one created using Excel and the other using Tableau, for analyzing sales data obtained from a YouTube tutorial. 
 The project provides insights into sales trends, top-performing stores, products, and sales representatives.
